@@ -28,5 +28,7 @@ $pkg install sudo
 
 $apt install sudo
 
+🔴Basic Tool Has inatall🔴
 
+♠️FOLLOW Me My Github Account♠️
 
