@@ -28,6 +28,8 @@ $pkg install sudo
 
 $apt install sudo
 
+$pkg install root-repo
+
 🔴Basic Tool Has inatall🔴
 
 ♠️FOLLOW Me My Github Account♠️
