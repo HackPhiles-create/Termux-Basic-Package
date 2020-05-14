@@ -30,7 +30,9 @@ $apt install sudo
 
 $pkg install root-repo
 
+$pkg install unstable-repo
+
 🔴Basic Tool Has inatall🔴
 
-♠️FOLLOW Me My Github Account♠️
+
 
