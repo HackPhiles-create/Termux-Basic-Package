@@ -32,6 +32,8 @@ $pkg install root-repo
 
 $pkg install unstable-repo
 
+$pkg install pip2
+
 🔴Basic Tool Has inatall🔴
 
 
