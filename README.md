@@ -26,17 +26,32 @@ $pkg install openssh
 
 $pkg install sudo
 
-$apt install sudo
+$pkg install git
 
-$pkg install root-repo
+$pkg install nano
 
-$pkg install unstable-repo
+$pkg install toilet
 
-$pkg install pip2
+$pkg install bash
 
-🔴Basic Tool Has inatall🔴
+$pkg install figlet 
 
-🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+$pkg install wget
+
+$pkg install toilet 
+
+$pkg install ruby
+
+
+
+🔴TOOL HAS INSTALL🔴
+
+
+
+
+
+
+
 
 
 
